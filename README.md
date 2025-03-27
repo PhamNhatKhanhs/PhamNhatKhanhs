@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.reddit.com/r/gifs/comments/9xlejh/another_oldschool_fantasy_pixelart_i_made_today/?utm_source=chatgpt.com&rdt=52338" alt="Day Pixel Art by kaijupxl" />
+  <img src="https://www.behance.net/gallery/170466977/Chill-of-the-Wild" alt="Day Pixel Art by kaijupxl" />
 </p>
 
 <h1 align="center">Yo, mình là Khánh 👋</h1>
