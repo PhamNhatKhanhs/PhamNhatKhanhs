@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/VgN.gif" alt="Chill Pixel Fantasy Forest" width="800" />
+  <img src="chill-banner.jpg" width="800" />
 </p>
 
 
