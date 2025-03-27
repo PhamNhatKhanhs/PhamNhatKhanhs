@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Chill Pixel Banner" />
+</p>
+
 <h1 align="center">Yo, mình là Khánh 👋</h1>
 
 <p align="center">
