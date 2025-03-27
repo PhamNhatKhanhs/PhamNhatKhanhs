@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://www.behance.net/gallery/170466977/Chill-of-the-Wild" alt="Day Pixel Art by kaijupxl" />
+  <img src="https://tenor.com/view/pixel-art-fantasy-beautiful-gif-18666545" alt="Pixel Art Fantasy" width="800" />
 </p>
+
 
 <h1 align="center">Yo, mình là Khánh 👋</h1>
 
