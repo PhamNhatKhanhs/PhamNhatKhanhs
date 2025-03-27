@@ -42,7 +42,7 @@
 
 ## 📬 Nói chuyện với mình?
 
-- 📫 Email: yourname@gmail.com  
+- 📫 Email: phamnhatkhanhhs@gmail.com  
 - 🌐 LinkedIn (sắp có luôn 😎)  
 - ☕ Thích nói về tech, học tập, ý tưởng vui, dữ liệu xàm xàm mà hay ho
 
