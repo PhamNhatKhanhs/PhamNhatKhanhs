@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="chill-banner.jpg" width="800" />
+    <img src="chill-banner.jpg" alt="Chill Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 
