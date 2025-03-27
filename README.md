@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="chill-banner.jpg" alt="Chill of the Wild Banner" />
+  <img src="https://media.giphy.com/media/psMRkyebow9sxR6Ug1/giphy.gif" alt="Day Pixel Art by kaijupxl" />
 </p>
 
 <h1 align="center">Yo, mình là Khánh 👋</h1>
