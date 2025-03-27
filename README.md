@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Chill Pixel Banner" />
+  <img src="chill-banner.jpg" alt="Chill of the Wild Banner" />
 </p>
 
 <h1 align="center">Yo, mình là Khánh 👋</h1>
@@ -9,6 +9,7 @@
 🛠 Đang trên hành trình trở thành Data Engineer xịn xò  
 🚀 Mê Python, mê dữ liệu, mê tự động hóa 💡
 </p>
+
 
 ---
 
