@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/pixel-art-fantasy-beautiful-gif-18666545" alt="Pixel Art Fantasy" width="800" />
+  <img src="https://media.giphy.com/media/JrHhA7mT5D53u/giphy.gif" alt="Fantasy Pixel Chill" width="800" />
 </p>
 
 
