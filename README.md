@@ -1,59 +1,53 @@
-<h1 align="center">Hi 👋, I'm Phạm Nhật Khánh</h1>
+<h1 align="center">Yo, mình là Khánh 👋</h1>
 
 <p align="center">
-🎓 2nd-year Applied IT Student at PTIT (Hà Nội)  
-📊 Aspiring Data Engineer | Passionate about ETL, Data Pipelines, and Learning Platforms  
-🚀 Currently learning: dbt, Snowflake, Docker
+🧑‍💻 Sinh viên năm 2 ngành CNTT định hướng ứng dụng – PTIT  
+🛠 Đang trên hành trình trở thành Data Engineer xịn xò  
+🚀 Mê Python, mê dữ liệu, mê tự động hóa 💡
 </p>
 
 ---
 
-## 💡 About Me
+## 🧠 Một chút về mình
 
-- 🔭 I’m building a **learning support forum** where students ask questions and tutors get rewarded  
-- 🌱 I'm deepening my skills in **Python**, **SQL**, **MongoDB**, and **data warehouse design**  
-- 💬 Ask me about: ETL, web scraping, or building educational tools  
-- ⚡ Fun fact: I love making learning feel like a game 🎮
-
----
-
-## 🔨 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🐍 Code chủ yếu bằng Python, SQL, và làm ETL vui lắm luôn  
+- 🧱 Đã từng dùng dbt, Snowflake, MongoDB, Docker (vâng, cũng "dân chơi" dữ liệu rồi 😄)  
+- 🕸 Từng crawl cả đống dữ liệu web, từ khóa học tới nội dung học tập  
+- 🔨 Hiện đang build web học tập có AI + gia sư thật, kiểu hỏi-xu-trả-xu 😎
 
 ---
 
-## 📂 Highlight Projects
+## 🔧 Mấy thứ mình biết
 
-### 🎓 Smart Learning Forum (in progress)
-A web platform where students ask questions (using coins), and tutors answer to earn rewards.  
-→ Roles: AI assistant, gamified learning, and reputation tracking.
-
-### 🧱 ETL with dbt + Snowflake
-- Created a data warehouse for tracking student progress  
-- Used dbt for transformation and scheduled workflows in Docker  
-- Integrated Git for version control and CI/CD
-
-### 🕸 Web Crawler
-- Built using BeautifulSoup4 + Pandas  
-- Crawled structured data for course listings and forum threads  
-- Exported results to CSV for further analysis
+![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=black&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
-## 📫 Connect With Me
+## 📦 Mấy dự án đang làm
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-📧 Email: yourname@gmail.com  
-🌐 Portfolio (soon): [https://your-portfolio.com](https://your-portfolio.com)
+**🎓 Learning Forum**
+> Web giúp học sinh hỏi bài, gia sư trả lời và nhận xu đổi tiền. Có AI hỗ trợ nữa cơ!
+
+**📊 Mini ETL với dbt + Snowflake**
+> Mình làm 1 pipeline cơ bản, dùng dbt transform dữ liệu và chạy trong Docker.
+
+**🕸 Web Crawler**
+> Viết crawler bằng BS4 + pandas, kéo dữ liệu về học tập, khóa học, blog.
+
+---
+
+## 📬 Nói chuyện với mình?
+
+- 📫 Email: yourname@gmail.com  
+- 🌐 LinkedIn (sắp có luôn 😎)  
+- ☕ Thích nói về tech, học tập, ý tưởng vui, dữ liệu xàm xàm mà hay ho
 
 ---
 
 <p align="center">
-  Thanks for visiting! ⭐️
+Cảm ơn vì đã ghé ngang qua GitHub của mình nhen ⭐
 </p>
